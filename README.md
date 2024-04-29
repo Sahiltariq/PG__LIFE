@@ -2,10 +2,6 @@
 
 Welcome to PG Life, your ultimate solution for finding Paying Guest accommodations hassle-free! Developed as a Full-Stack Web Application during my Internshala Full Stack Web Development Internship Training, PG Life brings convenience and efficiency to your PG search experience.
 
-## Visit PG Life Online
-
-Explore PG Life live at [debanjansarkar.epizy.com/PGLIFE/index.php](http://debanjansarkar.epizy.com/PGLIFE/index.php)
-
 ## About PG Life
 
 PG Life is a meticulously crafted web application, tailored to offer seamless functionality and an intuitive user interface. Designed with a user-centric approach, it incorporates a blend of essential features and advanced technologies to elevate your PG hunting journey.
